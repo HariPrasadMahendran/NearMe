@@ -26,8 +26,6 @@ Execute the programs and publish them.
 
 ## CODE
 map.html
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
