@@ -36,12 +36,12 @@ map.html
 <body>
     <img id="Image-Maps-Com-image-maps-2023-04-20-084957" src="/static/map.png" border="0" width="1515" height="705" orgWidth="1920" orgHeight="974" usemap="#image-maps-2023-04-20-084957" alt="" />
 <map name="image-maps-2023-04-20-084957" id="ImageMapsCom-image-maps-2023-04-20-084957">
-<area  alt="" title="Malli" href="hill.html" shape="rect" coords="700,250,850,400" style="outline:none;" target="_self"    data-maphilight='aurachala hill' />
-<area  alt="" title="Dindigul" href="cave.html" shape="rect" coords="689,489,885,565" style="outline:none;" target="_self"    data-maphilight='cave' />
-<area  alt="" title="Alangulam" href="college.html" shape="rect" coords="910,725,1046,836" style="outline:none;" target="_self"    data-maphilight='college
+<area  alt="" title="Malli" href="svpr.html" shape="rect" coords="700,250,850,400" style="outline:none;" target="_self"    data-maphilight='aurachala hill' />
+<area  alt="" title="Dindigul" href="Dindigul.html" shape="rect" coords="689,489,885,565" style="outline:none;" target="_self"    data-maphilight='cave' />
+<area  alt="" title="Alangulam" href="home.html" shape="rect" coords="910,725,1046,836" style="outline:none;" target="_self"    data-maphilight='college
 ' />
-<area  alt="" title="KRKN" href="hotel.html" shape="rect" coords="982,305,1214,371" style="outline:none;" target="_self"    data-maphilight='hotel' />
-<area  alt="" title="SVPR" href="school.html" shape="rect" coords="230,714,470,813" style="outline:none;" target="_self"    data-maphilight='school' />
+<area  alt="" title="KRKN" href="school.html" shape="rect" coords="982,305,1214,371" style="outline:none;" target="_self"    data-maphilight='hotel' />
+<area  alt="" title="SVPR" href="Malli.html" shape="rect" coords="230,714,470,813" style="outline:none;" target="_self"    data-maphilight='school' />
 <area shape="rect" coords="700,250,850,400" alt="Image Map" style="outline:none;" title="Image Map" href="https://www.image-maps.com/" />
 </map>
    
